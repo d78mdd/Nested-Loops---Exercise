@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Train The Trainers", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Special Numbers", "05. Special Numbers\05. Special Numbers.csproj", "{ED3294A3-417E-4D05-A8A8-F3D6A02C6A91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Cinema Tickets", "06. Cinema Tickets\06. Cinema Tickets.csproj", "{777F8C6A-2790-4FC5-9BC9-D64C0B050AB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{ED3294A3-417E-4D05-A8A8-F3D6A02C6A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED3294A3-417E-4D05-A8A8-F3D6A02C6A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED3294A3-417E-4D05-A8A8-F3D6A02C6A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777F8C6A-2790-4FC5-9BC9-D64C0B050AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777F8C6A-2790-4FC5-9BC9-D64C0B050AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777F8C6A-2790-4FC5-9BC9-D64C0B050AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777F8C6A-2790-4FC5-9BC9-D64C0B050AB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
